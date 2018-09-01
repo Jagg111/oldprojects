@@ -1,0 +1,5 @@
+P:\Web Env\Test1\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+P:\Web Env\Test1\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+P:\Web Env\Test1\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\Test1\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+P:\Web Env\Test1\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb

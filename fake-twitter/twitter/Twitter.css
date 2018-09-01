@@ -1,0 +1,312 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #EEE;
+	font-family: verdana;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #2276BB;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a img {
+	border: none;
+}
+
+
+#header {
+	top: 0px;
+	width: 100%;
+	background-color: #59B;
+	height: 150px;
+	
+	border-bottom: 20px solid #246;
+	
+}
+
+#headerContent {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	background-image: url("./twitter-sun.gif");
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	height: 150px;
+	
+	
+
+
+}
+
+#headerContent img.logo {
+	margin-top: 25px;
+	margin-left: 170px;
+	float: left;
+}
+
+#contentContainer {
+	width: 100%;
+	background-color: #fff;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+#content div.timeline {
+	padding-top: 15spx;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #EEE;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-top-left-radius: 10px 10px;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+}
+
+#content div.timeline p {
+	margin: 0px;
+	display: block;
+	width: 770px;
+	padding-top: 10px;
+	padding-bottom: 3px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	font-weight: bold;
+	font-size: 24px;
+	color: #333;
+	font-family: Arial;
+	text-shadow: rgba(0, 0, 0, 0.30) 1px 1px 1px;
+	letter-spacing: 1px;
+}
+
+#content div.timeline h2 {
+	margin-top: 0px;
+	margin-left: 15px;
+	margin-bottom: 0px;
+	margin-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	display: block;
+	
+	font-weight: bold;
+	font-size: 28px;
+	color: #333;
+	font-family: Arial;
+	text-shadow: rgba(0, 0, 0, 0.30) 1px 1px 1px;
+	letter-spacing: 1px;
+}
+
+#content div.timeline p #RequiredFieldValidator1, #content div.timeline p #RequiredFieldValidator2, #content div.timeline p #RequiredFieldValidator3, #content div.timeline p #RequiredFieldValidator4 {
+	font-size: 14px;
+	text-shadow: none;
+	line-height: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content div.timeline textarea {
+	display: block;
+	width: 760px;
+	padding: 5px;
+	height: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 20px;
+	font-size: 15px;
+	font-family: verdana;
+	border: 1px solid #AAA;
+	border-bottom-left-radius: 3px 3px;
+	border-bottom-left-radius: 3px 3px;
+	border-bottom-right-radius: 3px 3px;
+	border-bottom-right-radius: 3px 3px;
+	border-top-left-radius: 3px 3px;
+	border-top-left-radius: 3px 3px;
+	border-top-right-radius: 3px 3px;
+	border-top-right-radius: 3px 3px;
+}
+
+#content div.timeline input#FollowButton , input#UnFollowButton {
+	border-bottom-left-radius: 5px 5px;
+	border-bottom-left-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+	border-top-left-radius: 5px 5px;
+	border-top-left-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+	border: 1px solid #555;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	font-weight: bold;
+	background-color: #fff;
+	font-size: 18px;
+	color: #2276BB;
+	line-height: 20px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	text-shadow: rgba(0, 0, 0, 0.30) 1px 1px 1px;
+	letter-spacing: 1px;
+}
+
+#content div.timeline input#FollowButton:hover, input#UnFollowButton:hover {
+	background-color: #777;
+	color: #fff;
+	
+}
+
+#content div.timeline input#FollowButton:active, input#UnFollowButton:active; {
+	color: #2276BB;
+	background-color: #CCC;
+}
+
+#content div.timeline div.tweetContent {
+	padding-top: 10px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+
+}
+
+#content div.timeline div.tweetContent:hover {
+	background-color: #CCC;
+	cursor: default;
+	border-top-left-radius: 10px 10px;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+}
+
+#content div.timeline div.tweetContent a, #content div.timeline div.tweetContent a:visited {
+	color: #2276BB;
+	font-weight: bold;
+}
+
+#content div.registration {
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #EEE;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	border-top-left-radius: 10px 10px;
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+}
+
+div.leftCol {
+	float: left;
+}
+
+div.clear {
+	clear: both;
+}
+
+
+#headerContent div.navigation {
+	float: right;
+	margin-top: 30px;
+	margin-right: 10px;
+	background-color: #fff;
+	padding: 5px;
+	border-bottom-left-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+	border-top-left-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+}
+
+#footerContainer {
+	width: 100%;
+	clear: both;
+	background-color: #EEE;
+	background-image: url("./bg-ftr-top.gif");
+	background-repeat: repeat-x;
+	height: 100px;
+
+}
+
+#messageBox {
+	background-color:#DCDCDC;
+	font: normal normal bold 15px/20px Helvetica, sans-serif;
+	text-shadow: rgba(0, 0, 0, 0.398438) 1px 1px 1px;
+	color: #333;
+	/*left: 50%;*/
+	margin-top: 200px;
+	/*width: 500px;
+	margin-left: -200px;*/
+	width: 34%;
+	left: 33%; 
+	text-align:center;
+	border: 1px solid #333;
+	display: block;
+	opacity: 1;
+	filter: alpha(opacity = 100);
+	z-index: 101;
+	padding-bottom: 5px;
+}
+
+#background {
+
+
+	height: 100%;
+	width: 100%;
+	min-width: 1000px;
+	top: 0px;
+	left: 0px;
+	background-color: #333;
+	color: #F3F3F3;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 36px;
+	text-shadow: rgba(0, 0, 0, 0.398438) 1px 1px 1px;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	opacity:1;
+	filter: alpha(opacity = 100);
+	z-index: 100;
+}
+#background p {
+	margin-top: 100px;
+}

@@ -1,0 +1,10 @@
+P:\Web Env\Test2\TaskList\TaskList\bin\TaskList.dll
+P:\Web Env\Test2\TaskList\TaskList\bin\TaskList.pdb
+P:\Web Env\Test2\TaskList\TaskList\bin\TaskList.xml
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\TaskList.Resources.resources
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\GenerateResource.read.1.tlog
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\GenerateResource.write.1.tlog
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\TaskList.dll
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\TaskList.xml
+P:\Web Env\Test2\TaskList\TaskList\obj\Debug\TaskList.pdb

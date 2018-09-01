@@ -1,0 +1,5 @@
+P:\Web Env\Mvccustomer\Mvccustomer\bin\Mvccustomer.dll
+P:\Web Env\Mvccustomer\Mvccustomer\bin\Mvccustomer.pdb
+P:\Web Env\Mvccustomer\Mvccustomer\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\Mvccustomer\Mvccustomer\obj\Debug\Mvccustomer.dll
+P:\Web Env\Mvccustomer\Mvccustomer\obj\Debug\Mvccustomer.pdb

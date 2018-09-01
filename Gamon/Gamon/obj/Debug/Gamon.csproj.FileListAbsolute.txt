@@ -1,0 +1,10 @@
+P:\Web Env\Gamon\Gamon\bin\Gamon.dll
+P:\Web Env\Gamon\Gamon\bin\Gamon.pdb
+P:\Web Env\Gamon\Gamon\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\Gamon\Gamon\obj\Debug\Gamon.dll
+P:\Web Env\Gamon\Gamon\obj\Debug\Gamon.pdb
+P:\Web Env\Gamon-old\Gamon\bin\Gamon.dll
+P:\Web Env\Gamon-old\Gamon\bin\Gamon.pdb
+P:\Web Env\Gamon-old\Gamon\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\Gamon-old\Gamon\obj\Debug\Gamon.dll
+P:\Web Env\Gamon-old\Gamon\obj\Debug\Gamon.pdb

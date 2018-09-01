@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Gameon">
+  <DataContextMoniker Name="/GameonDataContext" />
+  <nestedChildShapes>
+    <classShape Id="312193db-3fa6-4612-80a7-1fdc45308025" absoluteBounds="5.5, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/GameonDataContext/Addon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ef918517-6d06-488b-8987-09d23edf5808" absoluteBounds="5.5150000000000006, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27e17f88-4920-485b-8550-acd70f82d856" absoluteBounds="2.125, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/GameonDataContext/Game" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd1433cf-929c-4900-a1c8-0165bb7e1c19" absoluteBounds="2.14, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 1.88544840494792); (5.5 : 1.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/GameonDataContext/Game/Game_Addon" />
+      <nodes>
+        <classShapeMoniker Id="27e17f88-4920-485b-8550-acd70f82d856" />
+        <classShapeMoniker Id="312193db-3fa6-4612-80a7-1fdc45308025" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a6d851d0-46f8-4af2-954c-814d97d432d5" absoluteBounds="5.5, 3.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/GameonDataContext/vw_Addon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ab90089-1264-46c4-bbb8-b3c705ce3443" absoluteBounds="5.515, 4.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9721022b-c5a0-4439-962a-3fc82ec426ae" absoluteBounds="2.125, 3.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/GameonDataContext/vw_GameWithAddon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc480ed6-4ea1-4a7a-8116-1df949ebad08" absoluteBounds="2.14, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

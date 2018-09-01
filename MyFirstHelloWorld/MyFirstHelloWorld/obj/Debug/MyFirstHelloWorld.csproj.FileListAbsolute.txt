@@ -1,0 +1,5 @@
+P:\Web Env\MyFirstHelloWorld\MyFirstHelloWorld\bin\MyFirstHelloWorld.dll
+P:\Web Env\MyFirstHelloWorld\MyFirstHelloWorld\bin\MyFirstHelloWorld.pdb
+P:\Web Env\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\ResolveAssemblyReference.cache
+P:\Web Env\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\MyFirstHelloWorld.dll
+P:\Web Env\MyFirstHelloWorld\MyFirstHelloWorld\obj\Debug\MyFirstHelloWorld.pdb
